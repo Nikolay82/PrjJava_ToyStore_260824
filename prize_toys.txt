@@ -1,0 +1,10 @@
+ID: 5, Name: Слоник, Weight: 50
+ID: 12, Name: Машинка, Weight: 45
+ID: 7, Name: Машинка, Weight: 33
+ID: 4, Name: Машинка, Weight: 20
+ID: 9, Name: Котик, Weight: 20
+ID: 8, Name: Мишка, Weight: 18
+ID: 10, Name: Трактор, Weight: 12
+ID: 11, Name: Рыбка, Weight: 12
+ID: 1, Name: Мишка, Weight: 10
+ID: 3, Name: Машинка, Weight: 7
